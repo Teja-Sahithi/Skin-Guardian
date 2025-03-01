@@ -2,6 +2,7 @@
 
 ## Overview
 Skin Guardian is an AI-powered web application for real-time **skin cancer classification** using deep learning. It leverages the **HAM10000 dataset** to detect skin lesions and provides recommendations based on classification results. The platform is built using **React, Tailwind CSS, and APIs for classification and recommendations**.
+The project ZIP file (75MB) is available in Releases due to its large size.
 
 ## Features
 - **Real-time Skin Cancer Detection** using a deep learning model.
